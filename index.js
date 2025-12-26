@@ -33,7 +33,7 @@ client.on('ready', async () => {
   console.log(`${client.user.tag} - rich presence started!`);
 
   const r = new Discord.RichPresence()
-    .setApplicationId('356877880938070016')
+    .setApplicationId('1454012853571948567')
     .setType('PLAYING')
     .setURL('https://www.rocketleague.com/en/play') 
     .setState('PLAY')
